@@ -7,7 +7,7 @@ About me
 
 💼 FrontEnd Engineer at The Backstreet Boys
 
-📈 Built github-readme-stats, verlyjs and more, 50m+ hits • 31K stars on GitHub
+📈 Built Paint-Graph with Rek1ess and othes which allows you to paint your contributionj graph. 
 
 ❤️ I love writing TypeScript, and building fun experiments on type-level
 
@@ -17,7 +17,7 @@ About me
 
 📜 2 Public Repositories working on many more, to be public soon. One of them is a crzay chattter App. 
 
-🔑 20 Private Repositories
+🔑 A lot of Private Repositories
 
 
 Languages and Tools:
@@ -26,4 +26,3 @@ Languages and Tools:
 
 
 
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=feschenko&show_icons=true)
